@@ -7,6 +7,8 @@
 
 # 🌝 About Me:
 
+I'm a self-taught passionate Full-Stack developer from Sri Lanka 🇱🇰
+
 - 📫 How to reach me - **chammi2819@gmail.com**
 
 **`⚡Fun fact - I keep night shift swithed on at all times`**
