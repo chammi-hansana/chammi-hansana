@@ -35,8 +35,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/chammi-hansana-a49aaa1b3]" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chammi-hansana-a49aaa1b3" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
@@ -47,6 +46,7 @@
 <a href="https://instagram.com/chammihansana" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<br>
  
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chammi) 
 
