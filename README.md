@@ -10,9 +10,9 @@
 - ⚡ Fun fact **I keep night shift swithed on at all times **
 
 # 💫 About Me:
-- 📫 How to reach me **chammi2819@gmail.com**
+ 📫 How to reach me **chammi2819@gmail.com**
 
--⚡Fun fact - I keep night shift swithed on at all times
+⚡Fun fact - I keep night shift swithed on at all times
 
 
 ## 🌐 Socials:
@@ -31,7 +31,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=chammi-hansana&icon=7&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+ 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chammi) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
