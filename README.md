@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Chammi Hansana 👋</h1>
 
 
-# 👸🏻 About Me:
+# 👧🏻 About Me:
 
 - 📫 How to reach me - **chammi2819@gmail.com**
 
@@ -46,7 +46,7 @@
 <a href="https://instagram.com/chammihansana" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<br>
+<br><br>
  
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/chammi) 
 
