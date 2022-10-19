@@ -1,6 +1,7 @@
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hi there, I'm Chammi Hansana 👋" src="./assets/gh-readme-header.png" /></a></p>
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 [![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 
