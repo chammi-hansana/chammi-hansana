@@ -4,12 +4,12 @@
 
 
 # 👸🏻 About Me:
-<table><tr><td valign="top" width="50%">
+<td valign="top" width="50%">
  - 📫 How to reach me - **chammi2819@gmail.com**
 
 - ⚡Fun fact - I keep night shift swithed on at all times
 
-</td><td valign="top" width="50%"></td></tr></table>  
+</td><td valign="top" width="50%"> </td>
 
 
 # 👩🏻‍💻 Tech Stack:
