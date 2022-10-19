@@ -1,7 +1,11 @@
 
-<p align="center"><img width="80%" alt="Hi there, I'm Chammi Hansana 👋" src="./assets/gh-readme-header.png" /></p>
+<h1 align="center"><img width="80%" alt="Hi there, I'm Chammi Hansana 👋"  /></h1>
+
+
+<h3 align="center"><A Passionate Fullstack Devloper"  /></h1>
 
 <img align = "right" alt="coding" width="400" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+
 # 🌝 About Me:
 
 I'm a self-taught passionate Full-Stack developer from Sri Lanka 🇱🇰
