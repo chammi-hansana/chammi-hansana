@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Chammi Hansana 👋</h1>
 
 
-# 👧🏻 About Me:
+# 🌝 About Me:
 
 - 📫 How to reach me - **chammi2819@gmail.com**
 
