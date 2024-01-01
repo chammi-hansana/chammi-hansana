@@ -8,7 +8,7 @@
 
 # 🌝 About Me:
 
-**`I'm a self-taught passionate Full-Stack developer from Sri Lanka 🇱🇰`**
+**`I'm a self-taught passionate Software Engineer from Sri Lanka 🇱🇰`**
 
 -  📫 How to reach me - **chammi2819@gmail.com**
 
