@@ -15,9 +15,8 @@
 - ⚡Fun fact - I keep night shift swithed on at all times
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-<br>
-<br>
+ 
+
 <br>
 
 # 👩🏻‍💻 Tech Stack:
